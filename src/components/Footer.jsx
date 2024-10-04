@@ -8,8 +8,8 @@ const Footer = () => {
             <div>
                 <img src={assets.logo} className='mb-5 w-32' alt="" />
                 <p className='w-full md:w-2/3 text-gray-600'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt eveniet dolorem atque exercitationem recusandae incidunt nostrum voluptate aperiam! Eum alias totam minima culpa commodi? 
-                    Veritatis minus beatae pariatur consectetur quidem.
+                Explore our wide range of products for Men, Women, and Kids, including the latest fashion in 
+                Topwear, Bottomwear, and Winterwear. Enjoy seamless shopping with secure payments through Stripe or Cash on Delivery.
                 </p>
             </div>
 

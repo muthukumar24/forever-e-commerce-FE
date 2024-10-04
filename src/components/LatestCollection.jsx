@@ -18,8 +18,9 @@ const LatestCollection = () => {
         <div className='text-center py-8 text-3xl'>
             <Title text1={'LATEST'} text2={'COLLECTIONS'}/>
             <p className='w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Non deserunt consequatur sint beatae iste! 
-                Quod minima placeat maxime, nesciunt, quia numquam atque, excepturi ullam architecto ab ad magni possimus? Itaque.
+             Check out our fresh collection at our eCommerce store, designed to suit Men, Women,
+             and Kids alike. From trendy Top Wear and versatile Bottom Wear to warm Winter Wear, 
+             we have got the perfect pieces for your wardrobe.
             </p>
         </div>
 
